@@ -6,4 +6,6 @@
     <string name="Devi">/</string>
     <string name="enter_first_value">Enter First Value</string>
     <string name="enter_second_value">Enter Second Value</string>
+    <string name="todo">TODO</string>
+    <string name="all_rights_are_reserved">All rights are reserved</string>
 </resources>
